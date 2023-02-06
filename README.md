@@ -1,4 +1,4 @@
-### Hi there 👋
+I am currently a student at Auburn University pursuing my bachelors in Computer Science.
 
 <!--
 **cdlittle/cdlittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
